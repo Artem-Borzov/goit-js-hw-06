@@ -1,5 +1,4 @@
 const allLiRef = document.querySelectorAll(".item");
-console.log(allLiRef);
 const categoriesCount = allLiRef.length;
 console.log("Number of categories:", categoriesCount);
 
